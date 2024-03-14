@@ -1,5 +1,5 @@
 # Opencv C++ Installation in Ubuntu 
-installtion tested on: ubuntu-22.04.4-live-server-arm64
+Installation tested on: ubuntu-22.04.4-live-server-arm64
 
 ## Installation Steps
 Navigate to the home directory.
